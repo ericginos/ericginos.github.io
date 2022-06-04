@@ -4002,3 +4002,6 @@ input, select, textarea {
 		height: 300px;
 		object-fit: scale-down;
 	}
+	.vids{
+		position: static;
+	}
